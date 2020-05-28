@@ -9,7 +9,6 @@
 [Features](#Features)  
 [Demo](#Demo)  
 [Run](#Run)  
-[How to use](#How to use)  
 
 #### Why ?
 For forensic purposes it is sometimes necessary to generate a memory dump from a VM snapshot. It is also something that is regularly encountered in CTF.
