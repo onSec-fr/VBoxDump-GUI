@@ -1,5 +1,5 @@
 # VBoxDump-GUI
-![](img)
+![](https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Images/vboxgui.png?raw=true)
 
 #### A simple tool to create a RAM Dump from a running VirtualBox instance.
 
@@ -21,7 +21,7 @@ For those who (like me) also like to work on **Windows**, there's no native way 
 - Supports all VM guest platforms.
 
 #### Demo
-![](img)
+![](https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Images/demo.gif?raw=true)
 
 #### Run
 ##### Prerequisite
@@ -30,7 +30,7 @@ For those who (like me) also like to work on **Windows**, there's no native way 
 - .NET Core 3 Runtime : https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
 ##### Release
-- <a id="raw-url" href="https://raw.githubusercontent.com">**Download release**</a>
+- <a id="raw-url" href="https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Release/vboxdumpgui-0.1-release.zip?raw=true">**Download release**</a>
 - Launch`VBoxDumpGUI.exe`
 
 ##### Build
