@@ -3,9 +3,12 @@
 
 #### A simple tool to create a RAM Dump from a running VirtualBox instance.
 
-[TOC]
-
 ------------
+
+###### Table of Contents
+[Features](#Features)
+[Demo](#Demo)
+[Run](#Run)
 
 #### Why ?
 For forensic purposes it is sometimes necessary to generate a memory dump from a VM snapshot. It is also something that is regularly encountered in CTF.
