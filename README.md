@@ -9,6 +9,7 @@
 [Features](#Features)  
 [Demo](#Demo)  
 [Run](#Run)  
+[How to use](#How to use)  
 
 #### Why ?
 For forensic purposes it is sometimes necessary to generate a memory dump from a VM snapshot. It is also something that is regularly encountered in CTF.
@@ -38,6 +39,14 @@ For those who (like me) also like to work on **Windows**, there's no native way 
 
 ##### Build
 Alternatively you can build from source : `dotnet publish {path_to_solution} -c Release -r win-x64 --output {path_to_destination}`
+
+#### How to use
+1. If it is not detected automatically, fill in the installation directory of VirtualBox.
+2. Select a running VM. 
+3. Choose an output path and click DUMP.
+**Done**
+
+![](https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Images/howto.png?raw=true)
 
 #### The future
 If there's interest in this project, I'd like to include forensic analysis capabilities (password extraction, dump files, dump process, etc).
