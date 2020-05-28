@@ -42,7 +42,7 @@ Alternatively you can build from source : `dotnet publish {path_to_solution} -c 
 #### How to use
 1. If it is not detected automatically, fill in the installation directory of VirtualBox.
 2. Select a running VM. 
-3. Choose an output path and click DUMP.
+3. Choose an output path and click DUMP.  
 **Done**
 
 ![](https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Images/howto.png?raw=true)
