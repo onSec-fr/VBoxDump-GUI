@@ -1,7 +1,7 @@
 # VBoxDump-GUI
 ![](https://github.com/onSec-fr/VBoxDump-GUI/blob/master/Images/vboxgui.png?raw=true)
 
-#### A simple tool to create a RAM Dump from a running VirtualBox instance.
+#### A simple tool to create a Memory Dump from a running VirtualBox instance.
 
 ------------
 
