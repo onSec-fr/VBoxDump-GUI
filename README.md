@@ -40,6 +40,7 @@ For those who (like me) also like to work on **Windows**, there's no native way 
 Alternatively you can build from source : `dotnet publish {path_to_solution} -c Release -r win-x64 --output {path_to_destination}`
 
 #### How to use
+**(!) WARNING : the program must be run as an administrator (!)**
 1. If it is not detected automatically, fill in the installation directory of VirtualBox.
 2. Select a running VM. 
 3. Choose an output path and click DUMP.  
